@@ -1,0 +1,9 @@
+About :-
+
+Redux is like a state management tool where we store some data and whenever we need
+the required data then we can simply get them from the store.
+
+CartSlice:- 
+'CartSlice.js' is a file used in Redux to manage the state of a shopping cart.
+It defines actions and reducers related to cart functionality, such as adding or removing items.
+This helps keep the cart's state consistent and predictable throughout the application.
