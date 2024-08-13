@@ -1,6 +1,5 @@
 ﻿# MobileDev
 project of mobiledev
-![WhatsApp Image 2024-08-13 at 17 45 00_49106f7e](https://github.com/user-attachments/assets/a6f1dc75-b340-4e9a-a11e-f63f83d8bc40)
 ![WhatsApp Image 2024-08-13 at 17 45 02_7a9a5654](https://github.com/user-attachments/assets/228ec822-8aff-4dcd-ac4d-7a7fddb4df34)
 ![WhatsApp Image 2024-08-13 at 17 45 02_5d778bb1](https://github.com/user-attachments/assets/6e1e171d-70bf-4c21-97d9-e24faa90b975)
 ![WhatsApp Image 2024-08-13 at 17 45 01_d66db720](https://github.com/user-attachments/assets/e9eababd-53fe-44a2-9107-212dd50cf556)
